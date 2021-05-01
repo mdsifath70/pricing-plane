@@ -1,0 +1,35 @@
+/*--------------------- all responsive CSS CODE ---------------------*/
+
+@media (max-width: 1200px) {
+  html {
+    font-size: 95%;
+  }
+}
+
+@media (max-width: 991px) {
+  html {
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 88%;
+  }
+}
+
+@media (max-width: 576px) {
+  html {
+    font-size: 80%;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 76%;
+  }
+}
+
+@media (max-width: 375px) {
+
+}
